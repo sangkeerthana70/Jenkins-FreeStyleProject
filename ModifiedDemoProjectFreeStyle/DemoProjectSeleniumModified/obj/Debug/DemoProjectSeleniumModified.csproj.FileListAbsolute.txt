@@ -1,0 +1,12 @@
+C:\Program Files (x86)\Jenkins\workspace\ModifiedDemoProjectFreeStyle\DemoProjectSeleniumModified\bin\Debug\DemoProjectSeleniumModified.dll
+C:\Program Files (x86)\Jenkins\workspace\ModifiedDemoProjectFreeStyle\DemoProjectSeleniumModified\bin\Debug\DemoProjectSeleniumModified.pdb
+C:\Program Files (x86)\Jenkins\workspace\ModifiedDemoProjectFreeStyle\DemoProjectSeleniumModified\bin\Debug\nunit.framework.dll
+C:\Program Files (x86)\Jenkins\workspace\ModifiedDemoProjectFreeStyle\DemoProjectSeleniumModified\bin\Debug\WebDriver.dll
+C:\Program Files (x86)\Jenkins\workspace\ModifiedDemoProjectFreeStyle\DemoProjectSeleniumModified\bin\Debug\WebDriver.Support.dll
+C:\Program Files (x86)\Jenkins\workspace\ModifiedDemoProjectFreeStyle\DemoProjectSeleniumModified\bin\Debug\nunit.framework.pdb
+C:\Program Files (x86)\Jenkins\workspace\ModifiedDemoProjectFreeStyle\DemoProjectSeleniumModified\bin\Debug\nunit.framework.xml
+C:\Program Files (x86)\Jenkins\workspace\ModifiedDemoProjectFreeStyle\DemoProjectSeleniumModified\bin\Debug\WebDriver.xml
+C:\Program Files (x86)\Jenkins\workspace\ModifiedDemoProjectFreeStyle\DemoProjectSeleniumModified\bin\Debug\WebDriver.Support.xml
+C:\Program Files (x86)\Jenkins\workspace\ModifiedDemoProjectFreeStyle\DemoProjectSeleniumModified\obj\Debug\DemoProjectSeleniumModified.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Jenkins\workspace\ModifiedDemoProjectFreeStyle\DemoProjectSeleniumModified\obj\Debug\DemoProjectSeleniumModified.dll
+C:\Program Files (x86)\Jenkins\workspace\ModifiedDemoProjectFreeStyle\DemoProjectSeleniumModified\obj\Debug\DemoProjectSeleniumModified.pdb
